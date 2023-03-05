@@ -16,10 +16,8 @@
   top: 0;
   left: 0;
   height: 90vh;
-  /* max-height: 600px; */
   width: 100%;
   z-index: 8000;
-  background-color: red;
 }
 .showcase video{
   width: 100%;
@@ -27,7 +25,6 @@
   position: absolute;
   top: 0;
   object-fit: cover;
-  /* display: none; */
 }
 .overlay{
   background-color: black;
